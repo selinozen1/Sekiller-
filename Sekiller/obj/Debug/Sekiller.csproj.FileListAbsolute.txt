@@ -1,0 +1,7 @@
+C:\Users\Selin\source\repos\Sekiller\Sekiller\bin\Debug\Sekiller.exe.config
+C:\Users\Selin\source\repos\Sekiller\Sekiller\bin\Debug\Sekiller.exe
+C:\Users\Selin\source\repos\Sekiller\Sekiller\bin\Debug\Sekiller.pdb
+C:\Users\Selin\source\repos\Sekiller\Sekiller\obj\Debug\Sekiller.csprojAssemblyReference.cache
+C:\Users\Selin\source\repos\Sekiller\Sekiller\obj\Debug\Sekiller.csproj.CoreCompileInputs.cache
+C:\Users\Selin\source\repos\Sekiller\Sekiller\obj\Debug\Sekiller.exe
+C:\Users\Selin\source\repos\Sekiller\Sekiller\obj\Debug\Sekiller.pdb
